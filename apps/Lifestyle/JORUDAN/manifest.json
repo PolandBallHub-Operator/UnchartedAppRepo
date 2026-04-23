@@ -1,1 +1,36 @@
-
+{
+  "app_id": "jp.co.jorudan.nrk",
+  "app_name": "ジョルダン",
+  "developer": {
+    "name": "Jorudan Co.,Ltd.",
+    "website": "https://www.jorudan.co.jp",
+    "github": "No"
+  },
+  "version_info": {
+    "current_version": "1.0.0",
+    "release_date": "2026-04-23",
+    "last_updated": "2026-04-23"
+  },
+  "description": {
+    "short": "電車・バスの乗り換え困らない! みんなが使ってる定番の無 料乗換アプリ",
+    "full": "◆累計ダウンロード数5,500万突破(アプリ版。これはweb版です)！【ジョルダン乗換案内】◆\n「1本前・1本後」もワンタップ。日本中のバスも網羅。\n日常の通勤から旅行、出張まで、あなたの移動を強力にサポートします。"
+  },
+  "links": {
+    "app_url": "https://www.jorudan.co.jp",
+    "manifest_url": ""
+  },
+  "metadata": {
+    "category": "Lifestyle",
+    "tags": [
+      "PWA"
+    ],
+    "license": "Proprietary software"
+  },
+  "assets": {
+    "icon": "https://www.google.com/s2/favicons?domain=www.jorudan.co.jp&sz=256",
+    "screenshots": [
+      "https://raw.githubusercontent.com/PolandBallHub-Operator/UnchartedAppRepo/refs/heads/main/apps/Lifestyle/JORUDAN/s1.png",
+      "https://raw.githubusercontent.com/PolandBallHub-Operator/UnchartedAppRepo/refs/heads/main/apps/Lifestyle/JORUDAN/s2.png"
+    ]
+  }
+}
