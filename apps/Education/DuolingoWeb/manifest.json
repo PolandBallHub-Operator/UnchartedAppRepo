@@ -1,0 +1,33 @@
+{
+  "app_id": "com.duolingo",
+  "app_name": "Duolingo-WEB",
+  "developer": {
+    "name": "Duolingo",
+    "website": "https://ja.duolingo.com/info",
+    "github": "https://github.com/duolingo"
+  },
+  "version_info": {
+    "current_version": "1.0.0",
+    "release_date": "2012-06-19",
+    "last_updated": "2026-04-24"
+  },
+  "description": {
+    "short": "世界で最もダウンロードされている語学ソフトDuolingo",
+    "full": "世界で最もダウンロードされている語学アプリDuolingo (デュオリンゴ)では、40以上もの言語が無料で学べます。ゲーム感覚で学習できる機能も満載。5分程度のひとくちサイズの レッスンは、外出先でのスキマ時間にも最適です。またスピ ーキング・リーディング・リスニング・ライティングをバラ ンスよく練習でき、単語や発音、文法を自然に身につけることができます。"
+  },
+  "links": {
+    "app_url": "https://duolingo.com",
+    "manifest_url": ""
+  },
+  "metadata": {
+    "category": "Education",
+    "tags": [
+      "PWA"
+    ],
+    "license": "Proprietary Software"
+  },
+  "assets": {
+    "icon": "https://www.google.com/s2/favicons?domain=duolingo.com&sz=256",
+    "screenshots": []
+  }
+}
