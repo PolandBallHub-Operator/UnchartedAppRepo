@@ -1,0 +1,33 @@
+{
+  "app_id": "com.dmm.games",
+  "app_name": "DMM Games",
+  "developer": {
+    "name": "DMM.com",
+    "website": "https://dmm.com",
+    "github": "No"
+  },
+  "version_info": {
+    "current_version": "1.0.0",
+    "release_date": "2026-04-24",
+    "last_updated": "2026-04-24"
+  },
+  "description": {
+    "short": "DMM GAMES／手軽ブラウザゲー",
+    "full": "DMM GAMES／手軽ブラウザゲー。PC・スマホ・アプリで遊べる登録無料のオンラインゲーム！WEBゲーム・ブラウザゲームを通じて趣味の合う仲間たちと遊べるコミュニティサービスです。"
+  },
+  "links": {
+    "app_url": "https://games.dmm.com/",
+    "manifest_url": ""
+  },
+  "metadata": {
+    "category": "Games",
+    "tags": [
+      "PWA"
+    ],
+    "license": "Proprietary Software"
+  },
+  "assets": {
+    "icon": "https://www.google.com/s2/favicons?domain=games.dmm.com&sz=128",
+    "screenshots": []
+  }
+}
