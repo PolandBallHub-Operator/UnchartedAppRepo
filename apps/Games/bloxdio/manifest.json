@@ -1,0 +1,34 @@
+{
+  "app_id": "io.bloxd",
+  "app_name": "bloxd.io",
+  "developer": {
+    "name": "bloxd.io",
+    "website": "https://bloxd.io",
+    "github": "none"
+  },
+  "version_info": {
+    "current_version": "1.0.0",
+    "release_date": "2026-04-24",
+    "last_updated": "2026-04-24"
+  },
+  "description": {
+    "short": "友達とサンドボックス世界で遊ぶ。",
+    "full": "Bloxd.io（ブロックスド）は、ボクセル世界で、ブラウザから無料で遊べるオンラインマルチプレイヤーサンドボックスゲームです。パルクール、サバイバル、戦闘（PvP）、クリエイティブなど、多数のゲームモードを搭載しており、友達と一緒にリアルタイムで楽しめます。 "
+  },
+  "links": {
+    "app_url": "https://bloxd.io/",
+    "manifest_url": ""
+  },
+  "metadata": {
+    "category": "Games",
+    "tags": [
+      "PWA"
+    ],
+    "license": "Proprietary Software"
+  },
+  "assets": {
+    "icon": "https://www.google.com/s2/favicons?domain=bloxd.io&sz=256",
+    "screenshots": []
+  }
+}
+visibility
