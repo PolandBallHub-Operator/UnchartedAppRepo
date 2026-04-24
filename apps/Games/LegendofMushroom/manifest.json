@@ -1,1 +1,33 @@
-
+{
+  "app_id": "com.mxdzz.jp.and",
+  "app_name": "キノコ伝説",
+  "developer": {
+    "name": "Joy Nice Games",
+    "website": "https://kinoden.acenetgamejp.com/#/RoleZs",
+    "github": "No"
+  },
+  "version_info": {
+    "current_version": "1.0.0",
+    "release_date": "2026-04-24",
+    "last_updated": "2026-04-24"
+  },
+  "description": {
+    "short": "DLで4000連ガチャGet！全世界で3000万ダウンロードを突破した超人気冒険RPG『キノコ伝説：勇者と魔法のランプ』、ついに日本上陸！",
+    "full": "100年前、キノコ一族の勇者が魔王と壮絶な戦いを繰り広げ、多大な犠牲を払って、女神様が魔法のランプの力で魔王を封印すると、勇者も深い眠りにつきました。\n100年後、魔王の封印が解かれようとしています。深い眠りから目覚めた勇者は、女神様が残してくれたランプの力を使って強くなり、再び魔王を打ち負かさなければなりません。"
+  },
+  "links": {
+    "app_url": "https://kinodenweb.acenetgamejp.com/",
+    "manifest_url": ""
+  },
+  "metadata": {
+    "category": "Games",
+    "tags": [
+      "PWA"
+    ],
+    "license": "Proprietary Software"
+  },
+  "assets": {
+    "icon": "https://play-lh.googleusercontent.com/dfi3MzwDNnoSi_duJMbKtk9YQdz0ca_sg2Xz-G6QF7RSepXuwLPT-famNFZ5bVBrEPTOOFXyOdGwvKgOhjhLJcQ=w480-h960-rw",
+    "screenshots": []
+  }
+}
