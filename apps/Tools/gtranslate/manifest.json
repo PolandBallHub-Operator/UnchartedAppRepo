@@ -1,0 +1,33 @@
+{
+  "app_id": "com.google.translate",
+  "app_name": "Google翻訳",
+  "developer": {
+    "name": "Google LLC",
+    "website": "https://about.google",
+    "github": "https://github.com/google"
+  },
+  "version_info": {
+    "current_version": "1.0.0",
+    "release_date": "2026-04-24",
+    "last_updated": "2026-04-24"
+  },
+  "description": {
+    "short": "テキスト翻訳: 入力したテキストを 108 言語間で翻訳可能",
+    "full": "テキスト翻訳: 入力したテキストを 108 言語間で翻訳可能"
+  },
+  "links": {
+    "app_url": "https://translate.google.com",
+    "manifest_url": ""
+  },
+  "metadata": {
+    "category": "Tools",
+    "tags": [
+      "PWA"
+    ],
+    "license": "Proprietary Software"
+  },
+  "assets": {
+    "icon": "https://www.google.com/s2/favicons?domain=translate.google.com&sz=256",
+    "screenshots": []
+  }
+}
