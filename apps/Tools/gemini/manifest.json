@@ -1,1 +1,36 @@
-
+{
+  "app_id": "com.google.gemini",
+  "app_name": "Gemini",
+  "developer": {
+    "name": "Google LLC",
+    "website": "https://about.google",
+    "github": "https://github.com/google"
+  },
+  "version_info": {
+    "current_version": "1.0.0",
+    "release_date": "2026-04-24",
+    "last_updated": "2026-04-24"
+  },
+  "description": {
+    "short": "Google AIと話して、文章やリストの作成、計画の立案、新しい知識の習得を始めよう",
+    "full": "Google AIと話して、文章やリストの作成、計画の立案、新し い知識の習得を始めよう。創造力や生産性の向上を Google の AI アシスタントGemini がお手伝い。Gemini では、スマートフォンから Google の最も高性能な Al モデル ファミリーに直接アクセスできます。"
+  },
+  "links": {
+    "app_url": "https://gemini.google.com",
+    "manifest_url": ""
+  },
+  "metadata": {
+    "category": "Tools",
+    "tags": [
+      "PWA"
+    ],
+    "license": "Proprietary Software"
+  },
+  "assets": {
+    "icon": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=256",
+    "screenshots": [
+      "https://raw.githubusercontent.com/PolandBallHub-Operator/UnchartedAppRepo/refs/heads/main/apps/Tools/gemini/s1.png",
+      "https://raw.githubusercontent.com/PolandBallHub-Operator/UnchartedAppRepo/refs/heads/main/apps/Tools/gemini/s2.png"
+    ]
+  }
+}
