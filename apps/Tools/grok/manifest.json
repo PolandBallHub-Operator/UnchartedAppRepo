@@ -1,0 +1,33 @@
+{
+  "app_id": "com.grok",
+  "app_name": "Grok",
+  "developer": {
+    "name": "X Corp.",
+    "website": "https://x.com",
+    "github": "https://github.com/twitter"
+  },
+  "version_info": {
+    "current_version": "1.0.0",
+    "release_date": "2026-04-25",
+    "last_updated": "2026-04-25"
+  },
+  "description": {
+    "short": "xAI によって開発された AI 搭載アシスタント",
+    "full": "Grok は xAI によって開発された AI 搭載アシスタントで、最大限の誠実さ、有用性、好奇心を実現するように設計されています。あらゆる質問に対する回答を入手し、印象的な画像を生成し、写真をアップロードして、世界についてより深く理解することができます。Grok があれば、宇宙はあなたの手の中にあります!"
+  },
+  "links": {
+    "app_url": "https://grok.com/",
+    "manifest_url": ""
+  },
+  "metadata": {
+    "category": "Tools",
+    "tags": [
+      "PWA"
+    ],
+    "license": "Proprietary Software"
+  },
+  "assets": {
+    "icon": "https://www.google.com/s2/favicons?domain=grok.com&sz=128",
+    "screenshots": []
+  }
+}
