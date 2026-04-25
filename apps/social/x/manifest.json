@@ -1,0 +1,33 @@
+{
+  "app_id": "com.twitter",
+  "app_name": "X",
+  "developer": {
+    "name": "X Corp.",
+    "website": "https://x.com",
+    "github": "https://github.com/twitter"
+  },
+  "version_info": {
+    "current_version": "1.0.0",
+    "release_date": "2026-04-25",
+    "last_updated": "2026-04-25"
+  },
+  "description": {
+    "short": "ようこそ、すべての人のためのグローバルタウンスクエアへ。",
+    "full": "ようこそ、すべての人のためのグローバルタウンスクエア（デジタル上の街の広場）へ。\nXは、地球上に存在する数億ものユーザーによるリアルタイムの声と、少々型破りな性格が魅力のAIアシスタント「Grok」の力、そして絶え間なく生まれる新しい機能によって、世界で最も便利なEverythingアプリを目指し進化を続けています。Xを開けば、いつでもどこでもあらゆることが可能です"
+  },
+  "links": {
+    "app_url": "https://x.com",
+    "manifest_url": ""
+  },
+  "metadata": {
+    "category": "Social",
+    "tags": [
+      "PWA"
+    ],
+    "license": "Proprietary Software"
+  },
+  "assets": {
+    "icon": "https://play-lh.googleusercontent.com/XyI6Hyz9AFg7E_joVzX2zh6CpWm9B2DG2JuEz5meCFVm4-wTKTnHgqbmg62iFKe4Gzca=w480",
+    "screenshots": []
+  }
+}
