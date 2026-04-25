@@ -1,0 +1,33 @@
+{
+  "app_id": "com.facebook",
+  "app_name": "Facebook",
+  "developer": {
+    "name": "Meta Platforms, Inc.",
+    "website": "https://www.meta.com/about/",
+    "github": "https://github.com/facebook"
+  },
+  "version_info": {
+    "current_version": "1.0.0",
+    "release_date": "2026-04-25",
+    "last_updated": "2026-04-25"
+  },
+  "description": {
+    "short": "実在する人たちが好奇心を刺激する場所。古着を買い物するときでも、分かってくれる仲間にリール動画をシェアするときでも、AIで再構築した面白い画像で笑いを共有するときでも、Facebookなら、他のソーシャルネットワークではできない方法で自分のやりたいことを実現できます。",
+    "full": "実在する人たちが好奇心を刺激する場所。古着を買い物するときでも、分かってくれる仲間にリール動画をシェアするときでも、AIで再構築した面白い画像で笑いを共有するときでも、Facebookなら、他のソーシャルネットワークではできない方法で自分のやりたいことを実現できます。"
+  },
+  "links": {
+    "app_url": "https://m.facebook.com",
+    "manifest_url": ""
+  },
+  "metadata": {
+    "category": "Social",
+    "tags": [
+      "PWA"
+    ],
+    "license": "Proprietary Software"
+  },
+  "assets": {
+    "icon": "https://www.google.com/s2/favicons?domain=m.facebook.com&sz=128",
+    "screenshots": []
+  }
+}
