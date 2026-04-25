@@ -1,0 +1,33 @@
+{
+  "app_id": "com.google.maps",
+  "app_name": "Googleマップ",
+  "developer": {
+    "name": "Google LLC",
+    "website": "https://about.google",
+    "github": "https://github.com/google"
+  },
+  "version_info": {
+    "current_version": "1.0.0",
+    "release_date": "2026-04-25",
+    "last_updated": "2026-04-25"
+  },
+  "description": {
+    "short": "Google マップがあれば、どんな場所でも簡単に見つけてたどり着くことができます。",
+    "full": "Google マップがあれば、どんな場所でも簡単に見つけてたどり着くことができます。リアルタイムの交通データと GPS ナビゲーション機能で、自動車、徒歩、自転車、公共交通機関のそれぞれで最適なルートが見つかります。レストランやショップから日用品店まで、2 億 5 千万件を超える店舗や場所を調べることも、写真、クチコミ、役立つ情報を確認することもできます。"
+  },
+  "links": {
+    "app_url": "https://google.com/maps",
+    "manifest_url": ""
+  },
+  "metadata": {
+    "category": "Tools",
+    "tags": [
+      "PWA"
+    ],
+    "license": "Proprietary Software"
+  },
+  "assets": {
+    "icon": "https://play-lh.googleusercontent.com/BCmZ2LyUTKKdLhbQp1n49nKhPtDpNjLl_qT6Uctdtnux9s1sds5c_sWeEcGirhFV5dc=w400",
+    "screenshots": []
+  }
+}
