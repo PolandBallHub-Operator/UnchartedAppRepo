@@ -1,0 +1,34 @@
+{
+  "app_id": "com.instagram",
+  "app_name": "Instagram",
+  "developer": {
+    "name": "Meta Platforms, Inc.",
+    "website": "https://www.meta.com/about/",
+    "github": "https://github.com/facebook"
+  },
+  "version_info": {
+    "current_version": "1.0.0",
+    "release_date": "2026-04-25",
+    "last_updated": "2026-04-25"
+  },
+  "description": {
+    "short": "何気ない瞬間が、かけがえのない友情につながります。Instagramでその瞬間をシェアしましょう。",
+    "full": "何気ない瞬間が、かけがえのない友情につながります。Instagramでその瞬間をシェアしましょう。友達とつながり、新しいファンを見つけ、周りのみんなが何をしているか、どんなことに夢中になっているかをチェックしましょう。興味があることを探求したり、日常の出来事から人生の一大イベントまで、自分の近況を投稿したりすることもできます。"
+  },
+  "links": {
+    "app_url": "https://www.instagram.com",
+    "manifest_url": ""
+  },
+  "metadata": {
+    "category": "Social",
+    "tags": [
+      "PWA"
+    ],
+    "license": "Proprietary Software"
+  },
+  "assets": {
+    "icon": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=256",
+    "screenshots": []
+  }
+}
+visibility
