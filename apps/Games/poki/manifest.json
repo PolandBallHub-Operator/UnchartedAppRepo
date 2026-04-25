@@ -1,0 +1,33 @@
+{
+  "app_id": "com.poki",
+  "app_name": "Poki",
+  "developer": {
+    "name": "poki.com",
+    "website": "https://poki.com",
+    "github": "none"
+  },
+  "version_info": {
+    "current_version": "1.0.0",
+    "release_date": "2026-04-25",
+    "last_updated": "2026-04-25"
+  },
+  "description": {
+    "short": "Poki は究極のオンライン遊び場です",
+    "full": "Poki は究極のオンライン遊び場です。毎月 1 億人を超えるプレイヤーが、世界中のトップデベロッパーが厳選した数千ものゲームを楽しんでいます。Poki アプリなら、スマートフォン、Chromebook、タブレットで、このインスタントプレイ体験をお楽しみいただけます。\nハイスコアを目指す時も、友達とチームを組む時も、ちょっとした息抜きが必要な時も、Poki ならいつでもどこでもすぐにプレイできます。"
+  },
+  "links": {
+    "app_url": "https://poki.com",
+    "manifest_url": ""
+  },
+  "metadata": {
+    "category": "Games",
+    "tags": [
+      "PWA"
+    ],
+    "license": "Proprietary Software"
+  },
+  "assets": {
+    "icon": "https://www.google.com/s2/favicons?domain=poki.com&sz=256",
+    "screenshots": []
+  }
+}
